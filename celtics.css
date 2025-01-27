@@ -1,0 +1,40 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+}
+
+h1 {
+    color: #007A33; 
+    text-align: center;
+}
+
+h3 {
+    color: #BA9653;  
+    margin-top: 30px;
+    padding: 10px;
+}
+
+p {
+    line-height: 1.8;
+    margin: 20px 0;
+}
+
+img {
+    float: left;
+    margin: 0 20px 10px 0;
+}
+br {
+    clear: both;
+}
+
+a {
+    color: #007A33;
+}
+
+a:hover {
+    background-color: #007A33;
+    color: white;
+}

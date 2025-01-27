@@ -1,0 +1,41 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #00471B;  
+    text-align: center;
+}
+
+h3 {
+    color: #EEE1C6;  
+    margin-top: 30px;
+    padding: 10px;
+}
+
+p {
+    line-height: 1.8;
+    margin: 20px 0;
+}
+
+img {
+    float: left;
+    margin: 0 20px 10px 0;
+}
+
+br {
+    clear: both;
+}
+
+a {
+    color: #00471B;
+}
+
+a:hover {
+    background-color: #00471B;
+    color: white;
+}
